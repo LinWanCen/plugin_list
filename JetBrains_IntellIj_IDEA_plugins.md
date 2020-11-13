@@ -58,10 +58,3 @@ PlantUML 关系图语法：
 
 代码质量 FindBugs：
 [Versions: QAPlug - FindBugs - Plugins | JetBrains](https://plugins.jetbrains.com/plugin/4597-qaplug--findbugs/versions)
-
-
-## Other 其他
-
-统计代码：
-[Versions: Statistic - plugin for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/4509-statistic/versions)
-
