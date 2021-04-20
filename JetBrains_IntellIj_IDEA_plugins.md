@@ -11,6 +11,9 @@
 Maven 依赖查找：
 [Versions: Maven Helper - plugin for IntelliJ IDEA | JetBrains](https://plugins.jetbrains.com/plugin/7179-maven-helper/versions)
 
+直接打开压缩文件：
+[Versions: File Expander - plugin for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/11940-file-expander/versions)
+
 MyBatis：
 [Versions: Free MyBatis plugin - IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/8321-free-mybatis-plugin/versions)
 
