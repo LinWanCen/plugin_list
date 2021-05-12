@@ -10,6 +10,9 @@ GitExt (Git 工具)：
 
 MassiGra 汉化版 (轻量看图)：
 
+火箭加速器：
+https://www.nangua110.com/
+
 
 ## Suggest 有趣的功能软件
 
