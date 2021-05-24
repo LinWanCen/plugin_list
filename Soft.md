@@ -28,4 +28,6 @@ java 反编译：
 sqlyog (MySQL 工具):
 [Downloads · webyog/sqlyog-community Wiki](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 
+Linux 连接工具：
+[WindTerm](https://github.com/kingToolbox/WindTerm/releases)
 
