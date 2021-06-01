@@ -25,6 +25,9 @@ https://www.nangua110.com/
 java 反编译：
 [Releases · java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui/releases)
 
+hs_err_pid.log 读取器：
+https://github.com/xpbob/CrashAnalysis
+
 sqlyog (MySQL 工具):
 [Downloads · webyog/sqlyog-community Wiki](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 
