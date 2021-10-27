@@ -23,6 +23,8 @@ MyBatis：
 翻译：
 [Versions: Translation - plugin for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/8579-translation/versions)
 
+当前行责任人：
+[Versions: GitToolBox - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/7499-gittoolbox/versions)
 
 ## Suggest 有趣的功能插件
 
